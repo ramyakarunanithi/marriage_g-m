@@ -16,7 +16,7 @@ import Ecg from "./components/Ecg.jsx";
 import Moments from "./components/Moments.jsx";
 import Prescription from "./components/Prescription.jsx";
 import Marquee from "./components/Marquee.jsx";
-import Puzzle from "./components/Puzzle.jsx";
+import Puzzle from "./components/puzzle.jsx";
 import ScratchCard from "./components/ScratchCard.jsx";
 import WhatsAppContact from "./components/WhatsAppContact.jsx";
 import Projects from "./components/Projects.jsx";
